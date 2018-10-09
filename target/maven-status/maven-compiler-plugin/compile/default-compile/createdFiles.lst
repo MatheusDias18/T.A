@@ -1,0 +1,4 @@
+br\edu\ifpe\jpa\example\entities\Blog.class
+br\edu\ifpe\jpa\example\entities\Car.class
+br\edu\ifpe\jpa\example\entities\Post.class
+br\edu\ifpe\jpa\example\App.class
